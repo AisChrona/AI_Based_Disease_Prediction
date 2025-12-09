@@ -30,19 +30,6 @@ making the system helpful for **early diagnosis** and improved decision-making a
 
 ---
 
-## 📁 Project Structure
-
-| File / Folder             | Description                                      |
-|---------------------------|--------------------------------------------------|
-| `predict_symptoms.py`     | Symptom-based disease prediction logic           |
-| `predict_scan.py`         | MRI/CT scan prediction using CNN                 |
-| `model.h5`                | Trained CNN model (not included in repo)         |
-| `symptom_model.pkl`       | ML model for symptoms (not included in repo)     |
-| `ui.py`                   | Application UI                                   |
-| `dataset/`                | Training dataset (not included)                  |
-| `sample_images/`          | Few sample images for demonstration              |
-
----
 
 ## ▶️ How It Works
 
