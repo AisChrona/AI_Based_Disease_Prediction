@@ -48,4 +48,4 @@ making the system helpful for **early diagnosis** and improved decision-making a
 ## 📌 Important Note 
 ```markdown
 ⚠️ The full dataset and trained model files are not included in this repository.  
-Only the core project source code and sample images are provided.
+Only the core project source code is provided.
